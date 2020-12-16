@@ -1,6 +1,7 @@
 Rails.application.configure do
   config.hosts = (config.hosts rescue []) << /\w+\.ngrok\.io/
   # Settings specified here will take precedence over those in config/application.rb.
+  config.hosts << "mlrcbsousa.eu.ngrok.io"
 
   # In the development environment your application's code is reloaded on
   # every request. This slows down response time but is perfect for development

@@ -996,7 +996,7 @@
   dependencies:
     "@shopify/app-bridge" "^1.26.0"
 
-"@shopify/app-bridge@^1.26.0":
+"@shopify/app-bridge@^1.26.0", "@shopify/app-bridge@^1.28.0":
   version "1.28.0"
   resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-1.28.0.tgz#8fc2d941d528c7b10aa727ae590fff7ad152a86e"
   integrity sha512-EAvOAddypfRVSaHO5un9jRiJUcLGfDxdd8s3FAa1yTXVrLD/3RAFEjwYFePuQsJxt9ieaUL17naE3iHK1HywgA==
